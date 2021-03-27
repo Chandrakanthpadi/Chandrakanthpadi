@@ -2,7 +2,7 @@
 
 [Linkedin](https://www.linkedin.com/in/chandrakanth-padi/)
 
-## Learnt
+# Learnt
 
   - HTML5
   - CSS3
@@ -10,15 +10,19 @@
   - Git
   - React
 
-## Learning
+# Learning
 
   - Node.js
   - Express.js
   - MongoDB
   - Gsap Animation Library.
 
-> Hobbies
+# To Learn
 
+  - Django Framework
+  - Digital Marketing
+
+# Hobbies
   - Photography
   - Videography
   - Photo & Video Editing
