@@ -17,9 +17,11 @@
   - MongoDB
   - Gsap Animation Library.
 
-[] Photography
-[] Drawing
-[] Editing
+[]Photography
+
+[]Drawing
+
+[]Editing
 
 
 <!--
