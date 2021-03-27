@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 [Linkedin](https://www.linkedin.com/in/chandrakanth-padi/)
 
-# Learnt
+### Learnt
 
   - HTML5
   - CSS3
@@ -10,23 +10,25 @@
   - Git
   - React
 
-# Learning
+### Learning
 
   - Node.js
   - Express.js
   - MongoDB
   - Gsap Animation Library.
 
-# To Learn
+### To Learn
 
   - Django Framework
   - Digital Marketing
 
-# Hobbies
+### Hobbies
   - Photography
   - Videography
   - Photo & Video Editing
   - Reading blogs
+
+> Updated 27th March 2021.
 
 <!--
 **Chandrakanthpadi/Chandrakanthpadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
