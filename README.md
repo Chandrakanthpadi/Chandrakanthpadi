@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[Linkedin](https://www.linkedin.com/in/chandrakanth-padi/)
+Contact me [Linkedin](https://www.linkedin.com/in/chandrakanth-padi/)
 
 ### Learnt
 
