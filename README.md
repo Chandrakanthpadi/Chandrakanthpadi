@@ -17,12 +17,12 @@
   - MongoDB
   - Gsap Animation Library.
 
-[]Photography
+> Hobbies
 
-[]Drawing
-
-[]Editing
-
+  - Photography
+  - Videography
+  - Photo & Video Editing
+  - Reading blogs
 
 <!--
 **Chandrakanthpadi/Chandrakanthpadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
