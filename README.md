@@ -1,26 +1,12 @@
 ## Hi there 👋
 
-Contact me <a href="https://www.linkedin.com/in/chandrakanth-padi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chandrakanth-padi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="24" width="24" /></a>
 
-### Learnt
+I am currently looking for a challenging job in Software Industry.
 
-  - HTML5
-  - CSS3
-  - JavaScript
-  - Git
-  - React
-
-### Learning
-
-  - Node.js
-  - Express.js
-  - MongoDB
-  - Gsap Animation Library.
-
-### To Learn
-
-  - Django Framework
-  - Digital Marketing
+### Skills
+HTML5 ▪ CSS3 ▪ SASS ▪ JavaScript ▪ Node.js ▪ ReactJS ▪ MongoDB ▪ Firebase ▪ MySQL ▪ Gsap ▪ Figma ▪
+C ▪ C++ ▪ Java ▪ Python
 
 ### Hobbies
   - Photography
