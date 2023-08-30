@@ -2,11 +2,7 @@
 
 <a href="https://www.linkedin.com/in/chandrakanth-padi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="24" width="24" /></a>
 
-I am currently looking for a challenging job in Software Industry.
-
-### Skills
-HTML5 ▪ CSS3 ▪ SASS ▪ JavaScript ▪ Node.js ▪ ReactJS ▪ MongoDB ▪ Firebase ▪ MySQL ▪ Gsap ▪ Figma ▪
-C ▪ C++ ▪ Java ▪ Python
+In love with java.
 
 ### Hobbies
   - Photography
@@ -14,7 +10,7 @@ C ▪ C++ ▪ Java ▪ Python
   - Photo & Video Editing
   - Reading blogs
 
-> Updated 27th March 2021.
+> Updated 30th August 2023.
 
 <!--
 **Chandrakanthpadi/Chandrakanthpadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
